@@ -102,7 +102,3 @@ We welcome contributions to enhance SmartRep AI. Please fork the repository and 
 ## License
 
 SmartRep AI is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Contact
-
-For support or inquiries, please contact us at jeff.jiang13@gmail.com.
